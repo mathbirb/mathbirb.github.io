@@ -1,0 +1,20 @@
+.option{
+    border-radius:20px;
+    border-width:1px;
+    font-size: 30px;
+    width:75px;
+}
+
+.light{
+    border-color:black;
+    color:black;
+    background-color:white;
+}
+.dark{
+    border-color:grey;
+    color:white;
+    background-color:#4f4f4f;
+}
+.course-list{
+    
+}
